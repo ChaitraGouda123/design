@@ -1,0 +1,230 @@
+.main-box{
+    width: 100%;
+    height: 100vh;
+    background-color: whitesmoke;
+    display: flex;
+}
+
+.frist-box{
+    width: 100%;
+    max-width: 320px;
+    height: 560px;
+    background-color: #fafafa;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+.profile{
+    display: flex;
+    justify-content: space-between;
+}
+
+.profile-images{
+    display: flex;
+    justify-content: space-between;
+}
+
+.profile-images img{
+    width: 100%;
+    max-width: 40px;
+    margin-top: 25px;
+    margin-left: 20px;
+    border-radius: 50px;
+}
+
+.hello{
+    margin-top: 30px;
+    margin-left: 7px;
+    color: #777;
+    font-size: 11px;
+    font-family: sans-serif;
+}
+
+.joko{
+    font-weight: bold;
+    color: black;
+    font-size: 13px;
+}
+
+.top-icons1{
+    width: 100%;
+    max-width: 18px;
+    height: 18px;
+    text-align: center;
+    padding: 4px;
+    margin-top: 30px;
+    border: 1px solid #dad6d6;
+    border-radius: 40px;
+    margin-left: 80px;
+    background-color: white;
+}
+
+.top-icons2{
+    width: 100%;
+    max-width: 18px;
+    height: 18px;
+    text-align: center;
+    padding: 4px;
+    margin-top: 30px;
+    border: 1px solid #dad6d6;
+    border-radius: 40px;
+    margin-right: 25px;
+    background-color: white;
+}
+
+.progress{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.on-progress{
+    margin-left: 20px;
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.num{
+    color: #bebdbd;
+}
+
+.view{
+    margin-right: 25px;
+    font-family: sans-serif;
+    color: skyblue;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.design{
+    display: flex;
+    margin-top: 15px;
+}
+
+.design-box{
+    margin-left: 20px;
+    width: 100%;
+    max-width: 330px;
+    height: 220px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.design-ui{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.design-title{
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.fri{
+    font-weight: 500;
+    font-size: 11px;
+    color: #777;
+    margin-top: 5px;
+}
+
+.user-icon{
+    width: 100%;
+    max-width: 25px;
+    height: 23px;
+    color: rgb(185, 103, 9);
+    font-size: 23px;
+    padding: 8px;
+    border-radius: 40px;
+    margin-right: 10px;
+    text-align: center;
+    background-color: rgb(255, 225, 191);
+}
+
+.line{
+    width: 100%;
+    max-width: 220px;
+    height: 1px;
+    background-color: #dfdbdb;
+    margin-top: 15px;
+    margin-left: 18px;
+}
+
+.description{
+    margin-top: 15px;
+    font-family: sans-serif;
+    color: #8d8c8c;
+    margin-left: 15px;
+    font-size: 13px;
+}
+
+.design-description{
+    margin-top: 15px;
+    margin-left: 15px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 11.7px;
+}
+
+.team{
+    display: flex;
+    justify-content: space-between;
+}
+
+.teams{
+    margin-top: 20px;
+    margin-left: 15px;
+    color: #a7a5a5;
+    font-size: 14px;
+}
+
+.progress{
+    color: #a7a5a5;
+    font-size: 14px;
+}
+
+.team-icons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.teams-icons{
+    width: 100%;
+    max-width: 30px;
+    height: 30px;
+    background-color: #777;
+    border-radius: 40px;
+    display: flex;
+}
+
+.img1{
+    width: 100%;
+    max-width: 50px;
+    height: 10px;
+    background-color: #777;
+    border-radius: 40px;
+    display: flex; 
+}
+
+.wee-box{
+    width: 100%;
+    max-width: 40px;
+    height: 180px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: white;
+    margin-left: 10px;
+}
+
+.second-box{
+    width: 100%;
+    max-width: 270px;
+    height: 560px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
